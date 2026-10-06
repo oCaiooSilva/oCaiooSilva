@@ -1,7 +1,6 @@
 # Hi 👋, I'm Caio de Oliveira Silva
 
-🚀 **Junior Software Engineer| JavaScript & .NET**  
-🇧🇷 Brazil
+🚀 **Junior Software Engineer| JavaScript & .NET**
 
 I build **high-performance web systems**.  
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
